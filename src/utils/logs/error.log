@@ -380,3 +380,5 @@ notNull Violation: payment.amount cannot be null
 2025-07-26 19:45:08 [ERROR]: Error Connecting to Database getaddrinfo ENOTFOUND database-1.cvseuugeulzo.ap-south-1.rds.amazonaws.com
 2025-07-26 19:46:53 [ERROR]: Error Connecting to Database getaddrinfo ENOTFOUND database-1.cvseuugeulzo.ap-south-1.rds.amazonaws.com
 2025-07-28 17:02:45 [ERROR]: Error Connecting to Database Access denied for user 'admim'@'103.92.45.165' (using password: YES)
+2025-08-24 23:04:47 [ERROR]: Account not found
+2025-09-25 21:29:39 [ERROR]: Error Connecting to Database connect ETIMEDOUT
